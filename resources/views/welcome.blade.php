@@ -443,10 +443,12 @@
                         <h2>Reptile provenance</h2>
                         <div class="ml-12">
                             <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                ain't easy. Keeping track of the life histories of the animals we keep must be pretty
-                                hard, because nobody seems to be doing it. That doesn't seem right to us. We aim to
-                                change that, forever. Knowing the history of the animals you keep, buy, sell or trade is
-                                valuable to the future of these species, and to humankind itself.
+                                ain't easy. Keeping track of the life histories of the animals we keep must be
+                                difficult because so few of us seem to be doing it.
+                                Even when good records are kept, they are rarely in a shareable, searchable,
+                                archivable format.
+                                That doesn't seem right to us. We aim to change it.
+
                             </div>
                         </div>
                     </div>
@@ -459,6 +461,8 @@
                                 an epoch of mass extinction on par with the end of the dinosaurs. Maybe act like
                                 it? We reptile hobbyists can, and should, do a better job of tracking the lineages of the
                                 animals we keep.
+                                Knowing the history of the animals you keep, buy, sell or trade is
+                                valuable to the future of these species, to your business, and to humankind itself.
                             </div>
                         </div>
                     </div>
