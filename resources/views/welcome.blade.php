@@ -432,8 +432,8 @@
                                 Reptile Bio is the free (like air) herpetoculture database.
                                 If you are a keeper, breeder, vendor, or broker of exotic
                                 pets, then reptile.bio is for you.
-                                Animals with knowable lineage, origin, locality are more enjoyable. Every piece of
-                                information is important and once it is lost for a given individual, it is lost
+                                Animals with knowable lineage, genotype and locality are more enjoyable. Every piece of
+                                information is important. Once lineage information is lost for a given individual, it is lost
                                 forever. Let's do better.
                             </div>
                         </div>
