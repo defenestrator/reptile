@@ -463,9 +463,7 @@
                         </div>
                     </div>
                     <div class="p-6 border-t border-gray-200 dark:border-gray-700 md:border-l">
-                        <h3>We need better tools,</h3>
-                        <hr>
-
+                        <h3>We need better tools</h3>
                         <div class="ml-12">
                             <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
                                 reptile.bio is a new tool to help us build a better future for our community; The
