@@ -455,7 +455,7 @@
                         <div class="ml-12">
                             <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
                                 to protect and preserve both the natural
-                                habitats and natural history of the animals on Earth. We are living in the Anthopocene,
+                                habitats and natural history of the animals on Earth. We are living in the Anthropocene,
                                 an epoch of mass extinction on par with the end of the dinosaurs. Maybe act like
                                 it? We reptile hobbyists can, and should, do a better job of tracking the lineages of the
                                 animals we keep.
