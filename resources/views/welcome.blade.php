@@ -457,8 +457,8 @@
                                 to protect and preserve both the natural
                                 habitats and natural history of the animals on Earth. We are living in the Anthopocene,
                                 an epoch of mass extinction on par with the end of the dinosaurs. Maybe act like
-                                it, a little? We reptile hobbyists can and should do a better job of tracking the lineages of the
-                                animals we breed, and the provenance of those that are bought and sold.
+                                it? We reptile hobbyists can, and should, do a better job of tracking the lineages of the
+                                animals we keep.
                             </div>
                         </div>
                     </div>
@@ -471,6 +471,8 @@
                                 reptile.bio is a new tool to help us build a better future for our community; The
                                 humans, and the scaly pets they love. Keep track of the animals under your care and
                                 we will host it and keep it safe for the next one hundred years. Yes, really.
+                                Our goal is a century of open data stewardship of captive herpetoculture information
+                                for the good of these spectacular animals, and of humanity.
                             </div>
                         </div>
                     </div>
