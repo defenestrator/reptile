@@ -472,9 +472,9 @@
                             <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
                                 reptile.bio is a new tool to help us build a better future for our community; The
                                 humans, and the scaly pets they love. Keep track of the animals under your care and
-                                we will host it and keep it safe for the next one hundred years. Yes, really.
-                                Our goal is a century of open data stewardship of captive herpetoculture information
-                                for the good of these spectacular animals, and of humanity.
+                                we will host it and keep it safe for the next 100 years. Yes, really.
+                                Our goal is open data stewardship of captive herpetoculture information
+                                for the good of these spectacular animals, and of humanity, for at least the next century.
                             </div>
                         </div>
                     </div>
