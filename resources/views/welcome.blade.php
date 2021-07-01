@@ -432,8 +432,9 @@
                                 Reptile Bio is the free (like air) herpetoculture database.
                                 If you are a keeper, breeder, vendor, or broker of exotic
                                 pets, then reptile.bio is for you.
-                                Animals with knowable lineage, genotype and locality are more enjoyable. Every piece of
-                                information is important. Once lineage information is lost for a given individual, it is lost
+                                Animals with knowable lineage, genotype and locality are more enjoyable and more valuable.
+                                Every piece of information is important, but particularly lineage.
+                                Once lineage information is lost for a given individual, it is lost
                                 forever. Let's do better.
                             </div>
                         </div>
@@ -444,8 +445,8 @@
                         <div class="ml-12">
                             <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
                                 ain't easy. Keeping track of the life histories of the animals we keep must be
-                                difficult because so few of us seem to be doing it.
-                                Even when good records are kept, they are rarely in a shareable, searchable,
+                                difficult, because so few of us seem to be doing it.
+                                Even when good records are kept; They are rarely in a shareable, searchable,
                                 archivable format.
                                 That doesn't seem right to us. We aim to change it.
 
@@ -456,12 +457,11 @@
                         <h3>Keepers and breeders have a duty</h3>
                         <div class="ml-12">
                             <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                to protect and preserve both the natural
-                                habitats and natural history of the animals on Earth. We are living in the Anthropocene,
-                                an epoch of mass extinction on par with the end of the dinosaurs. Maybe act like
-                                it? We reptile hobbyists can, and should, do a better job of tracking the lineages of the
-                                animals we keep.
-                                Knowing the history of the animals you keep, buy, sell or trade is
+                                to protect and preserve both the natural habitats and natural history of the animals on Earth.
+                                We are living in the Anthropocene era. It is an epoch of mass extinction on par with the
+                                end of the dinosaurs. Maybe act like it? We reptile hobbyists can, and should, do a better
+                                job of tracking the lineages of the animals we keep, at a bare minimum.
+                                Keeping a historical record of the animals you keep, breed, buy, sell or trade is
                                 valuable to the future of these species, to your business, and to humankind itself.
                             </div>
                         </div>
@@ -470,11 +470,11 @@
                         <h3>We need better tools</h3>
                         <div class="ml-12">
                             <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                reptile.bio is a new tool to help us build a better future for our community; The
-                                humans, and the scaly pets they love. Keep track of the animals under your care and
-                                we will host it and keep it safe for the next 100 years. Yes, really.
-                                Our goal is open data stewardship of captive herpetoculture information
-                                for the good of these spectacular animals, and of humanity, for at least the next century.
+                                reptile.bio is one tool to help us build a better future for our scaly pets and ourselves.
+                                Easily keep track of the animals under your care and we will host it and keep it safe for
+                                the next 100 years. Yes, really.
+                                Our goal is to provide a public stewardship service of captive herpetocultural records for
+                                at least the next century.
                             </div>
                         </div>
                     </div>
