@@ -487,7 +487,7 @@
                             </path>
                         </svg>
 
-                        <a href="https://laravel.bigcartel.com" class="ml-1 underline">
+                        <a href="#" class="ml-1 underline">
                             Shop
                         </a>
 
@@ -498,7 +498,7 @@
                             </path>
                         </svg>
 
-                        <a href="https://github.com/sponsors/taylorotwell" class="ml-1 underline">
+                        <a href="#" class="ml-1 underline">
                             Sponsor
                         </a>
                     </div>
