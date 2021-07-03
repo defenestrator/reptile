@@ -532,7 +532,7 @@
                         </a>
                     </div>
                 </div>
-                <div class="ml-4 text-justify text-sm text-gray-500 sm:text-right sm:ml-2">
+                <div class="ml-4 text-justify text-sm text-gray-500 sm:text-right">
                     {{-- Right side footer --}}
                 </div>
             </div>
