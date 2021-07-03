@@ -80,9 +80,8 @@
                                 Earth. We are living in the Anthropocene era. It is an epoch of mass extinction on par
                                 with the end of the dinosaurs. Maybe act like it? We reptile hobbyists can, and should,
                                 do a better job of tracking the lineages of the animals we keep, at a bare minimum.
-                                Having verifiable records of the animals you keep, breed, buy, sell or trade is
-                                valuable to the future of these species, your ability care for the animals, and to
-                                humankind itself.
+                                Having verifiable records of the animals you keep, breed, buy, sell or trade adds value
+                                in every sense of the word.
                             </div>
                         </div>
                     </div>
@@ -93,7 +92,7 @@
                             <div class="mt-2 text-gray-600 dark:text-gray-400">
                                 Reptile Bio is one tool to help us build a better future for our scaly pets and
                                 ourselves. Easily keep track of the animals under your care and we will host it and keep
-                                it safe for the next 100 years. Yes, really.
+                                it available for the next 100 years. Yes, really.
                                 Our goal is to provide a public stewardship service of captive herpetocultural records
                                 for at least the next century. The first twenty years is on us. Let's develop better
                                 habits and raise the standards in private herpetoculture, together.
