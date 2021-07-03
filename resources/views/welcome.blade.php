@@ -438,8 +438,7 @@
                             <div class="mt-2 text-gray-600 dark:text-gray-400">
                                 Reptile Bio is the free (like air) herpetoculture database.
                                 Animals with knowable lineage, genotype and locality are more enjoyable and more
-                                valuable.
-                                Every piece of information is important, but particularly lineage.
+                                valuable. Every piece of information is important, but particularly lineage.
                                 Once lineage information is lost for a given individual, it is lost
                                 forever. Let's do better.
                             </div>
@@ -467,8 +466,9 @@
                                 We are living in the Anthropocene era. It is an epoch of mass extinction on par with the
                                 end of the dinosaurs. Maybe act like it? We reptile hobbyists can, and should, do a
                                 better job of tracking the lineages of the animals we keep, at a bare minimum.
-                                Keeping verifiable records of the animals you keep, breed, buy, sell or trade is
-                                valuable to the future of these species, to your business, and to humankind itself.
+                                Having verifiable records of the animals you keep, breed, buy, sell or trade is
+                                valuable to the future of these species, to your relationship to the animals, and to
+                                humankind itself.
                             </div>
                         </div>
                     </div>
@@ -481,8 +481,7 @@
                                 it safe for the next 100 years. Yes, really.
                                 Our goal is to provide a public stewardship service of captive herpetocultural records
                                 for at least the next century. The first twenty years is on us. Let's develop better
-                                habits
-                                and raise the standards in private herpetoculture, together.
+                                habits and raise the standards in private herpetoculture, together.
                             </div>
                         </div>
                     </div>
