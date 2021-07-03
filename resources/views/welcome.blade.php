@@ -454,7 +454,7 @@
                                 difficult, because so few of us seem to be doing it.
                                 Even when good records are kept, they are rarely in a shareable, searchable,
                                 archivable format.
-                                That doesn't seem right to us. We aim to change it.
+                                That doesn't seem right to us, and we aim to change it.
                             </div>
                         </div>
                     </div>
@@ -466,9 +466,8 @@
                                 Earth.
                                 We are living in the Anthropocene era. It is an epoch of mass extinction on par with the
                                 end of the dinosaurs. Maybe act like it? We reptile hobbyists can, and should, do a
-                                better
-                                job of tracking the lineages of the animals we keep, at a bare minimum.
-                                Keeping a historical record of the animals you keep, breed, buy, sell or trade is
+                                better job of tracking the lineages of the animals we keep, at a bare minimum.
+                                Keeping verifiable records of the animals you keep, breed, buy, sell or trade is
                                 valuable to the future of these species, to your business, and to humankind itself.
                             </div>
                         </div>
