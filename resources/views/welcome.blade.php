@@ -119,7 +119,7 @@
                         </svg>
 
                         <a
-                            href="#"
+                            href="https://patreon.com/reptilebio"
                             class="ml-1 underline">
                             Shop
                         </a>
@@ -138,7 +138,7 @@
                         </svg>
 
                         <a
-                            href="#"
+                            href="https://patreon.com/reptilebio"
                             class="ml-1 underline">
                             Sponsor
                         </a>
