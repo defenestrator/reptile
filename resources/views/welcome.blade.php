@@ -49,8 +49,8 @@
                 <div class="grid grid-cols-1 md:grid-cols-2">
                     <div class="p-6">
                         <h2>Biology and biography</h2>
-                        <div class="ml-12">
-                            <div class="mt-2 text-gray-600 dark:text-gray-400">
+                        <div class="ml-4 mr-4">
+                            <div class="mt-2 text-gray-600 dark:text-gray-400 text-justify">
                                 Reptile Bio is the free (like air) herpetoculture database.
                                 Animals with knowable lineage, genotype and locality are more enjoyable and more
                                 valuable. Every piece of information is important, but particularly lineage.
@@ -62,8 +62,8 @@
 
                     <div class="p-6 border-t border-gray-200 dark:border-gray-700 md:border-t-0 md:border-l">
                         <h2>Reptile provenance</h2>
-                        <div class="ml-12">
-                            <div class="mt-2 text-gray-600 dark:text-gray-400">
+                        <div class="ml-4 mr-4">
+                            <div class="mt-2 text-gray-600 dark:text-gray-400 text-justify">
                                 ain't easy. Keeping track of the life histories of the animals we keep must be
                                 difficult, because so few of us seem to be doing it.
                                 Even when good records are kept, they are rarely in a shareable, searchable,
@@ -74,8 +74,8 @@
                     </div>
                     <div class="p-6 border-t border-gray-200 dark:border-gray-700">
                         <h3>We have a duty</h3>
-                        <div class="ml-12">
-                            <div class="mt-2 text-gray-600 dark:text-gray-400">
+                        <div class="ml-4 mr-4">
+                            <div class="mt-2 text-gray-600 dark:text-gray-400 text-justify">
                                 to protect and preserve both the natural habitats and natural history of the animals on
                                 Earth. We are living in the Anthropocene era. It is an epoch of mass extinction on par
                                 with the end of the dinosaurs. Maybe act like it? We reptile hobbyists can, and should,
@@ -88,8 +88,8 @@
 
                     <div class="p-6 border-t border-gray-200 dark:border-gray-700 md:border-l">
                         <h3>We need better tools;</h3>
-                        <div class="ml-12">
-                            <div class="mt-2 text-gray-600 dark:text-gray-400">
+                        <div class="ml-4 mr-4">
+                            <div class="mt-2 text-gray-600 dark:text-gray-400 text-justify">
                                 Reptile Bio is one tool to help us build a better future for our scaly pets and
                                 ourselves. Easily keep track of the animals under your care and we will host it and keep
                                 it available for the next 100 years. Yes, really.
