@@ -10,7 +10,7 @@
     <link rel="icon" href="/favicon.png">
     <title>
         {{ config('app.name', 'Reptile Bio') }} &mdash;
-        {{ Illuminate\Support\Str::title(str_replace('.', ' ', Route::currentRouteName())) . ' ' . ' :: Forever' }}
+        {{ Illuminate\Support\Str::title(str_replace('.', ' ', Route::currentRouteName())) . ' ' . '' }}
     </title>
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Fauna+One&display=swap"
