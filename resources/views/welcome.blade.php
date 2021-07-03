@@ -3,18 +3,15 @@
 
 <head>
     <meta charset="utf-8">
-    <meta
-        name="viewport"
-        content="width=device-width, initial-scale=1"
-    >
-
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="msapplication-TileColor" content="#FFFFFF">
+    <meta name="msapplication-TileImage" content="/favicon.png">
+    <link rel="apple-touch-icon-precomposed" href="/favicon.png">
+    <link rel="icon" href="/favicon.png">
     <title>Reptile Bio</title>
 
     <!-- Fonts -->
-    <link
-        href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap"
-        rel="stylesheet"
-    >
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
 
     <!-- Styles -->
     <style>
@@ -400,7 +397,7 @@
 
     <style>
         body {
-            font-family: 'Nunito', sans-serif;
+            font-family: 'Open Sans', sans-serif;
         }
 
     </style>
@@ -429,8 +426,7 @@
                     <img
                         src="rb-logo2.png"
                         class="ml-4 lg:m-0"
-                        style="width:80%; max-width:640px;"
-                    >
+                        style="width:80%; max-width:640px;">
                 </div>
             </div>
             <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
@@ -466,7 +462,7 @@
                         </div>
                     </div>
                     <div class="p-6 border-t border-gray-200 dark:border-gray-700">
-                        <h3>Keepers and breeders have a duty</h3>
+                        <h3>We have a duty</h3>
                         <div class="ml-12">
                             <div class="mt-2 text-gray-600 dark:text-gray-400">
                                 to protect and preserve both the natural habitats and natural history of the animals on
@@ -507,18 +503,15 @@
                             stroke-width="2"
                             viewBox="0 0 24 24"
                             stroke="currentColor"
-                            class="-mt-px w-5 h-5 text-gray-400"
-                        >
+                            class="-mt-px w-5 h-5 text-gray-400">
                             <path
-                                d="M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z"
-                            >
+                                d="M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z">
                             </path>
                         </svg>
 
                         <a
                             href="#"
-                            class="ml-1 underline"
-                        >
+                            class="ml-1 underline">
                             Shop
                         </a>
 
@@ -529,18 +522,15 @@
                             stroke-linejoin="round"
                             stroke-width="2"
                             viewBox="0 0 24 24"
-                            class="ml-4 -mt-px w-5 h-5 text-gray-400"
-                        >
+                            class="ml-4 -mt-px w-5 h-5 text-gray-400">
                             <path
-                                d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"
-                            >
+                                d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z">
                             </path>
                         </svg>
 
                         <a
                             href="#"
-                            class="ml-1 underline"
-                        >
+                            class="ml-1 underline">
                             Sponsor
                         </a>
                     </div>
