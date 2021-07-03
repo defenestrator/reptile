@@ -433,7 +433,6 @@
                 <div class="grid grid-cols-1 md:grid-cols-2">
                     <div class="p-6">
                         <h2>Biology and biography</h2>
-
                         <div class="ml-12">
                             <div class="mt-2 text-gray-600 dark:text-gray-400">
                                 Reptile Bio is the free (like air) herpetoculture database.
@@ -462,16 +461,16 @@
                         <div class="ml-12">
                             <div class="mt-2 text-gray-600 dark:text-gray-400">
                                 to protect and preserve both the natural habitats and natural history of the animals on
-                                Earth.
-                                We are living in the Anthropocene era. It is an epoch of mass extinction on par with the
-                                end of the dinosaurs. Maybe act like it? We reptile hobbyists can, and should, do a
-                                better job of tracking the lineages of the animals we keep, at a bare minimum.
+                                Earth. We are living in the Anthropocene era. It is an epoch of mass extinction on par
+                                with the end of the dinosaurs. Maybe act like it? We reptile hobbyists can, and should,
+                                do a better job of tracking the lineages of the animals we keep, at a bare minimum.
                                 Having verifiable records of the animals you keep, breed, buy, sell or trade is
-                                valuable to the future of these species, to your relationship to the animals, and to
+                                valuable to the future of these species, your ability care for the animals, and to
                                 humankind itself.
                             </div>
                         </div>
                     </div>
+
                     <div class="p-6 border-t border-gray-200 dark:border-gray-700 md:border-l">
                         <h3>We need better tools;</h3>
                         <div class="ml-12">
