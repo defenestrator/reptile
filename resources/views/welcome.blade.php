@@ -8,7 +8,7 @@
     <title>Reptile Bio</title>
 
     <!-- Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
 
     <!-- Styles -->
     <style>
@@ -418,17 +418,18 @@
         @endif --}}
 
         <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
-            <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
-                <h1>Reptile Bio</h1>
+            <div class="flex justify-center pt-8 sm:justify-start">
+                <div class="block items-top justify-center w-50 mt-8 mx-2 px-2">
+                    <img src="rb-logo2.png" class="ml-4 lg:m-0" style="width:80%; max-width:640px;">
+                </div>
             </div>
-
             <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
                 <div class="grid grid-cols-1 md:grid-cols-2">
                     <div class="p-6">
-                        <h2>Bio means biology and biography</h2>
+                        <h2>Biology and biography</h2>
 
                         <div class="ml-12">
-                            <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
+                            <div class="mt-2 text-gray-600 dark:text-gray-400">
                                 Reptile Bio is the free (like air) herpetoculture database.
                                 If you are a keeper, breeder, vendor, or broker of exotic
                                 pets, then reptile.bio is for you.
@@ -444,7 +445,7 @@
                     <div class="p-6 border-t border-gray-200 dark:border-gray-700 md:border-t-0 md:border-l">
                         <h2>Reptile provenance</h2>
                         <div class="ml-12">
-                            <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
+                            <div class="mt-2 text-gray-600 dark:text-gray-400">
                                 ain't easy. Keeping track of the life histories of the animals we keep must be
                                 difficult, because so few of us seem to be doing it.
                                 Even when good records are kept, they are rarely in a shareable, searchable,
@@ -457,7 +458,7 @@
                     <div class="p-6 border-t border-gray-200 dark:border-gray-700">
                         <h3>Keepers and breeders have a duty</h3>
                         <div class="ml-12">
-                            <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
+                            <div class="mt-2 text-gray-600 dark:text-gray-400">
                                 to protect and preserve both the natural habitats and natural history of the animals on
                                 Earth.
                                 We are living in the Anthropocene era. It is an epoch of mass extinction on par with the
@@ -472,7 +473,7 @@
                     <div class="p-6 border-t border-gray-200 dark:border-gray-700 md:border-l">
                         <h3>We need better tools</h3>
                         <div class="ml-12">
-                            <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
+                            <div class="mt-2 text-gray-600 dark:text-gray-400">
                                 Reptile Bio is one tool to help us build a better future for our scaly pets and
                                 ourselves.
                                 Easily keep track of the animals under your care and we will host it and keep it safe
