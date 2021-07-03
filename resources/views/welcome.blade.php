@@ -49,7 +49,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-2">
                     <div class="p-6">
                         <h2>Biology and biography</h2>
-                        <div class="ml-4 mr-4">
+                        <div class="ml-4 mr-2">
                             <div class="mt-2 text-gray-600 dark:text-gray-400 text-left sm:text-justify">
                                 Reptile Bio is the free (like air) herpetoculture database.
                                 Animals with knowable lineage, genotype and locality are more enjoyable and more
@@ -62,7 +62,7 @@
 
                     <div class="p-6 border-t border-gray-200 dark:border-gray-700 md:border-t-0 md:border-l">
                         <h2>Reptile provenance</h2>
-                        <div class="ml-4 mr-4">
+                        <div class="ml-4 mr-2">
                             <div class="mt-2 text-gray-600 dark:text-gray-400 text-left sm:text-justify">
                                 ain't easy. Keeping track of the life histories of the animals we keep must be
                                 difficult, because so few of us seem to be doing it.
@@ -74,7 +74,7 @@
                     </div>
                     <div class="p-6 border-t border-gray-200 dark:border-gray-700">
                         <h3>We have a duty</h3>
-                        <div class="ml-4 mr-4">
+                        <div class="ml-4 mr-2">
                             <div class="mt-2 text-gray-600 dark:text-gray-400 text-left sm:text-justify">
                                 to protect and preserve both the natural habitats and natural history of the animals on
                                 Earth. We are living in the Anthropocene era. It is an epoch of mass extinction on par
@@ -88,7 +88,7 @@
 
                     <div class="p-6 border-t border-gray-200 dark:border-gray-700 md:border-l">
                         <h3>We need better tools;</h3>
-                        <div class="ml-4 mr-4">
+                        <div class="ml-4 mr-2">
                             <div class="mt-2 text-gray-600 dark:text-gray-400 text-left sm:text-justify">
                                 Reptile Bio is one tool to help us build a better future for our scaly pets and
                                 ourselves. Easily keep track of the animals under your care and we will host it and keep
