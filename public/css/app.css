@@ -1717,14 +1717,6 @@ select {
 	--tw-text-opacity: 1;
 	color: rgba(16, 185, 129, var(--tw-text-opacity));
 }
-.text-gray-200 {
-	--tw-text-opacity: 1;
-	color: rgba(229, 231, 235, var(--tw-text-opacity));
-}
-.text-gray-300 {
-	--tw-text-opacity: 1;
-	color: rgba(209, 213, 219, var(--tw-text-opacity));
-}
 .underline {
 	text-decoration: underline;
 }
@@ -1780,10 +1772,6 @@ select {
 .ring-opacity-5 {
 	--tw-ring-opacity: 0.05;
 }
-.grayscale {
-	--tw-grayscale: grayscale(100%);
-	filter: var(--tw-filter);
-}
 .filter {
 	filter: var(--tw-filter);
 }
@@ -1828,6 +1816,9 @@ h1,h2, h3
 {
     font-family: 'Fauna One', Georgia, 'Times New Roman', Times, serif
 }
+h1 {font-size:2rem; font-weight:800;}
+h2 {font-size:1.6rem; font-weight:bold;}
+h3 {font-size:1.2rem; font-weight:bold;}
 .hover\:border-gray-300:hover {
 	--tw-border-opacity: 1;
 	border-color: rgba(209, 213, 219, var(--tw-border-opacity));
