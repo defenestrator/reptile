@@ -437,8 +437,6 @@
                         <div class="ml-12">
                             <div class="mt-2 text-gray-600 dark:text-gray-400">
                                 Reptile Bio is the free (like air) herpetoculture database.
-                                If you are a keeper, breeder, vendor, or broker of exotic
-                                pets, then reptile.bio is for you.
                                 Animals with knowable lineage, genotype and locality are more enjoyable and more
                                 valuable.
                                 Every piece of information is important, but particularly lineage.
@@ -457,7 +455,6 @@
                                 Even when good records are kept, they are rarely in a shareable, searchable,
                                 archivable format.
                                 That doesn't seem right to us. We aim to change it.
-
                             </div>
                         </div>
                     </div>
@@ -477,7 +474,7 @@
                         </div>
                     </div>
                     <div class="p-6 border-t border-gray-200 dark:border-gray-700 md:border-l">
-                        <h3>We need better tools</h3>
+                        <h3>We need better tools;</h3>
                         <div class="ml-12">
                             <div class="mt-2 text-gray-600 dark:text-gray-400">
                                 Reptile Bio is one tool to help us build a better future for our scaly pets and
@@ -535,9 +532,8 @@
                         </a>
                     </div>
                 </div>
-
-                <div class="ml-4 text-center text-sm text-gray-500 sm:text-right sm:ml-0">
-                    Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }})
+                <div class="ml-4 text-justify text-sm text-gray-500 sm:text-right sm:ml-2">
+                    {{-- Right side footer --}}
                 </div>
             </div>
         </div>
