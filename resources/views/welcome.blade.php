@@ -9,7 +9,7 @@
     <link rel="apple-touch-icon-precomposed" href="/favicon.png">
     <link rel="icon" href="/favicon.png">
     <title>
-        {{ config('app.name', 'Reptile Bio') }} &mdash;
+        {{ config('app.name', 'Reptile Bio') }},
         {{ Illuminate\Support\Str::title(str_replace('.', ' ', Route::currentRouteName())) . ' ' . '' }}
     </title>
     <!-- Fonts -->
