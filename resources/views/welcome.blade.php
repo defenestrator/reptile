@@ -8,11 +8,14 @@
     <meta name="msapplication-TileImage" content="/favicon.png">
     <link rel="apple-touch-icon-precomposed" href="/favicon.png">
     <link rel="icon" href="/favicon.png">
-    <title>Reptile Bio</title>
+    <title>
+        {{ config('app.name', 'Reptile Bio') }} &mdash;
+        {{ Illuminate\Support\Str::title(str_replace('.', ' ', Route::currentRouteName())) . ' ' . ' :: Forever' }}
+    </title>
 
     <!-- Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
-
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Fauna+One&display=swap"
+        rel="stylesheet">
     <!-- Styles -->
     <style>
         /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
@@ -397,7 +400,13 @@
 
     <style>
         body {
-            font-family: 'Open Sans', sans-serif;
+            font-family: 'Open Sans', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+
+        h1,
+        h2,
+        h3 {
+            font-family: 'Fauna One', Georgia, 'Times New Roman', Times, serif
         }
 
     </style>
