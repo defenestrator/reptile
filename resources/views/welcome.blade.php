@@ -93,7 +93,7 @@
                                 Reptile Bio is one tool to help us build a better future for our scaly pets and
                                 ourselves. Easily keep track of the animals under your care and we will host it and keep
                                 it available for the next 100 years. Yes, really.
-                                Our goal is to provide a public stewardship service of captive herpetocultural records
+                                Our goal is to provide public stewardship of captive herpetocultural records
                                 for at least the next century. The first twenty years is on us. Let's develop better
                                 habits and raise the standards in private herpetoculture, together.
                             </div>
